@@ -1,0 +1,10 @@
+git init 
+git add .
+git commit -m "message"
+git revert <commit id>
+git reset <commit id> we should not use
+git cherry-pick <commit id>
+git merge 
+git remote -v
+git remote add origin master
+git push/pull origin <branch name>
